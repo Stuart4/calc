@@ -72,7 +72,7 @@ while (True):
         elif (op == "/"):
             print "Quotient: ", div(a, b)
         elif (op == "%"):
-            print "Mod: ", mod(a, b)
+            print "Remainder: ", mod(a, b)
         else:
             print "Invalid operation..."
 
